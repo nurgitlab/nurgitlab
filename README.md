@@ -16,4 +16,8 @@
 ### Follow me
 [![vk](https://img.shields.io/badge/vkontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/nzmmsk)
 [![telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/nukacola2021)
-[![gmail](https://img.shields.io/badge/gmail-090909?style=for-the-badge&logo=gmail)](mailto:nurbek.math@gmail.com)
+[![gmail](https://img.shields.io/badge/nurbek.math@gmail.com-090909?style=for-the-badge&logo=gmail)](https://mail.google.com/)
+
+
+### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurgitlab&layout=compact&theme=onedark)](https://github.com/nurgitlab)
