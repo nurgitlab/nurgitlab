@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/nurgitlab/nurgitlab/blob/main/readme_assets/headerPicture.jpg)](https://vk.com/nzmmsk)
 
 About me
 
