@@ -20,4 +20,5 @@
 
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurgitlab&layout=compact&theme=onedark)](https://github.com/nurgitlab)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurgitlab&layout=compact&theme=dark&width=100%)](https://github.com/nurgitlab)
