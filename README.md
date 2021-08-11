@@ -17,7 +17,7 @@
 [![vk](https://img.shields.io/badge/vkontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/nzmmsk)
 [![telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/nukacola2021)
 [![gmail](https://img.shields.io/badge/nurbek.math@gmail.com-090909?style=for-the-badge&logo=gmail)](https://mail.google.com/)
-
+[![linkedin](https://img.shields.io/badge/linkedin-090909?style=for-the-badge&logo=linkedin)]()
 
 ### Stats
 
