@@ -14,13 +14,12 @@
 
 
 ### Follow me
-[![vk](https://img.shields.io/badge/https://vk.com/nzmmsk-090909?style=for-the-badge&logo=vk)](https://vk.com/nzmmsk)
+[![vk](https://img.shields.io/badge/vk-090909?style=for-the-badge&logo=vk)](https://vk.com/nzmmsk)
+[![telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/nzmmsk)
+[![linkedin](https://img.shields.io/badge/linkedin-090909?style=for-the-badge&logo=linkedin)](https://github.com/nurgitlab)
+[![gmail](https://img.shields.io/badge/GMAIL-090909?style=for-the-badge&logo=gmail)](https://github.com/nurgitlab)
 
-[![telegram](https://img.shields.io/badge/https://t.me/nzmmsk-090909?style=for-the-badge&logo=telegram)](https://t.me/nzmmsk)
 
-[![gmail](https://img.shields.io/badge/nurbek.math@gmail.com-090909?style=for-the-badge&logo=gmail)](https://mail.google.com/)
-
-[![linkedin](https://img.shields.io/badge/linkedin-090909?style=for-the-badge&logo=linkedin)]()
 
 ### Stats
 
