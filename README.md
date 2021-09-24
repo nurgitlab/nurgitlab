@@ -15,9 +15,15 @@
 
 ### Follow me
 [![vk](https://img.shields.io/badge/vk-090909?style=for-the-badge&logo=vk)](https://vk.com/nzmmsk)
+vk.com/nzmmsk
 [![telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/nzmmsk)
+t.me/nzmmsk
 [![linkedin](https://img.shields.io/badge/linkedin-090909?style=for-the-badge&logo=linkedin)](https://github.com/nurgitlab)
+Linked
 [![gmail](https://img.shields.io/badge/GMAIL-090909?style=for-the-badge&logo=gmail)](https://github.com/nurgitlab)
+nurbek.math@gmail.com
+
+
 
 
 
