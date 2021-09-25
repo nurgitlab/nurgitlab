@@ -1,4 +1,4 @@
-[![Header](https://github.com/nurgitlab/nurgitlab/blob/main/readme_assets/headerPicture.jpg)](https://github.com/nurgitlab/nurgitlab/raw/main/Resume/Zhylkaidarov_Frontend_Resume.pdf)
+[![Header](https://github.com/nurgitlab/nurgitlab/blob/main/readme_assets/headerPicture.png)](https://github.com/nurgitlab/nurgitlab/raw/main/Resume/Zhylkaidarov_Frontend_Resume.pdf)
 
 ## I'm beginner React developer
 
@@ -16,10 +16,6 @@
 ### Follow me
 [![vk](https://img.shields.io/badge/vk-090909?style=for-the-badge&logo=vk)](https://vk.com/nzmmsk)
 [![telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/nzmmsk)
-[![linkedin](https://img.shields.io/badge/linkedin-090909?style=for-the-badge&logo=linkedin)](https://github.com/nurgitlab)
-
-
-
 
 
 
