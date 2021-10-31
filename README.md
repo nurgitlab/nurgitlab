@@ -3,7 +3,8 @@
 ## I'm beginner React developer
 
 ### Languages and tools
-![JS](https://img.shields.io/badge/JS(ES6)-090909?style=for-the-badge&logo=javascript)
+![JS](https://img.shields.io/badge/JS(ES6+)-090909?style=for-the-badge&logo=javascript) ![TS](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=typescript)
+
 
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
 
