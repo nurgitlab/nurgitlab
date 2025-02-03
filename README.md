@@ -1,8 +1,22 @@
-[![Header](https://github.com/nurgitlab/nurgitlab/blob/main/resume_assets/headerPicture.png)](https://github.com/nurgitlab/nurgitlab/raw/main/resume_assets/zhylkaidarov_ru.pdf)
+[![Header](https://github.com/nurgitlab/nurgitlab/blob/main/resume_assets/headerPicture2.png)](https://www.linkedin.com/in/nurgitlab/)
 
 ## Hi, I'm Nurbek Zhylkaidarov
 
 I'm web developer!
+
+___
+
+### Backend
+
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
+
+![PSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
+![Github actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ___
 
 ### Frontend
@@ -16,22 +30,10 @@ ___
 
 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![webpack](https://img.shields.io/badge/webpack-090909?style=for-the-badge&logo=webpack)
-___
-
-### Backend
-
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
-![PSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-	
 
 ___
+
 ### Follow me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nurgitlab)
-[![vk](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=whit)](https://vk.com/nzmmsk)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurgitlab/)
 
-___
-
-### Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurgitlab&layout=compact&theme=dark&width=100%)](https://github.com/nurgitlab)
