@@ -1,4 +1,4 @@
-[![Header](https://github.com/nurgitlab/nurgitlab/blob/main/resume_assets/headerPicture2.png)](https://www.linkedin.com/in/nurgitlab/)
+[![Header](https://github.com/nurgitlab/nurgitlab/blob/main/resume_assets/headerPicture2.jpg)](https://www.linkedin.com/in/nurgitlab/)
 
 ## Hi, I'm Nurbek Zhylkaidarov
 
